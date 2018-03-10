@@ -5,9 +5,9 @@ Description
 The Art of Finding application allows the user to search for images of historic artwork. It provides data about the work of art, as well as the location of the gallery where the art work is currently on display. Google Maps provides the address of the gallery. The user can browse Amazon to purchase images of the art work.
 
 Design Team
-Trish Mederos – Back end, Google Maps API
-Grant Stolz – Team Lead – Back end, Artsy API
-Abby Thoresen – Front end Lead
+* Trish Mederos – Back end, Google Maps API
+* Grant Stolz – Team Lead – Back end, Artsy API
+* Abby Thoresen – Front end Lead
 
 Motivation
 We all enjoy fine art (Especially Abby).
